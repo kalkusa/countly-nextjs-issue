@@ -1,0 +1,1 @@
+This simople next js app shows issue with using countly-web-sdk
